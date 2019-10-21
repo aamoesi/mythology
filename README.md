@@ -31,3 +31,14 @@ the foloowing technology or tools were used to code the website.
  javascript
  express
  node JS
+
+## workflow
+
+users have to create account to use the app.
+users are welcomed by their name after registrying and login to their account.
+these username and password are created and registered in the database using hashing encryption.
+users can now explore the tabs and mythology available
+The last page offers the user the exam option to teste knowledge
+the exams is an multiple option pass and once the user completes the exams which are 5 questions.
+The result marks is displayed for the user after the exams.
+However the user has option to logout of the account at any point in time
